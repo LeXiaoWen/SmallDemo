@@ -3,7 +3,7 @@
   "bundles": [
     {
       "uri": "main",
-      "pkg": "com.leo.mysmall.app.main"
+      "pkg": "com.leo.smalldemo.app.main"
     }
   ]
 }
